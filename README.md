@@ -15,3 +15,5 @@ Welcome to the StonePaperScissors game repository! This simple web-based game is
 3. The computer will make its choice.
 4. See the result and find out if you win, lose, or it's a tie.
 5. Play again for endless fun!
+
+![image](https://github.com/avanigupta06/StonePaperScissors-Game/assets/138049609/015a1584-d4c2-4f50-9c94-6e63b53958b7)
